@@ -12,7 +12,7 @@
         <samp>
                 I'm an undergrad chemistry student
                 <br>
-                「 Focused on theoretical an computational chemistry</b> 」
+                「 Focused on theoretical and computational chemistry</b> 」
                 <br>
                 <br>
         </samp>
@@ -34,7 +34,7 @@
                         src="https://img.shields.io/badge/-Github-10172a?style=flat-square&logo=github&logoColor=37bcf8">
         </a>
         <!-- Arduino -->
-        <a  target="_blank"><img alt="Chemsitry"
+        <a  target="_blank"><img alt="Chemistry"
                         src="https://img.shields.io/badge/-Chemistry-00979D?style=flat-square&">
         </a>
 </p>
