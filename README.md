@@ -10,7 +10,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                I'm a(n almost graduated) chemist
+                I'm a chemist
                 <br>
                 「 Focused on theoretical and computational chemistry</b> 」
                 <br>
