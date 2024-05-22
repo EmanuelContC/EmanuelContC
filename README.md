@@ -10,9 +10,8 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                I'm a chemist
                 <br>
-                「 Focused on theoretical and computational chemistry</b> 」
+                「 I'm a chemist focused on theoretical and computational chemistry</b> 」
                 <br>
                 <br>
         </samp>
